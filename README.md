@@ -1,6 +1,7 @@
 # online-food-delivery-frontend
 we have created a online food delivery frontend using html, CSS, JavaScript 
 The website we will create will be somewhat similar to food delivery services. The website will automatically behave responsively according to different screen sizes as shown below-
+
 ![base64_7JVAOrh](https://user-images.githubusercontent.com/61103916/134628037-10c89505-c5b7-485b-81cd-0759d86adeb7.png)
 
 Before starting, take a look at all the folders, we will use. Download all the images from copyright-free sources and arrange them according to different folders. 
@@ -8,6 +9,9 @@ Before starting, take a look at all the folders, we will use. Download all the i
 Make a new file as index.html and add the boilerplate. Then give the title as the Best Online Food Delivery Services in India | MyOnlineMeal.com under the <title> tag.  
 
 In the above code, we have created a navbar and attached an image to it. We have then added several li’s to it like about us, contact us, etc. headings. The next step is to apply CSS to the navbar, logo, and list items. After applying it, the final result will look like as follows-
+  
+  ![base64_nJBdaMb](https://user-images.githubusercontent.com/61103916/134628337-670af730-3dea-46a1-af6c-8ab2daf861ec.png)
+
 
 Now we will make a section below it and add a background image to it. Create a section with id as home as follows-
 The next step is to customize this section with the CSS. We will target each element of the home section and customize them individually. After adding the CSS, the result will look as follows-

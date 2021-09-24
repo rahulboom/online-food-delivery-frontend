@@ -2,7 +2,8 @@
 we have created a online food delivery frontend using html, CSS, JavaScript 
 The website we will create will be somewhat similar to food delivery services. The website will automatically behave responsively according to different screen sizes as shown below-
 
-![base64_7JVAOrh](https://user-images.githubusercontent.com/61103916/134628037-10c89505-c5b7-485b-81cd-0759d86adeb7.png)
+![Screenshot 2021-09-24 121652](https://user-images.githubusercontent.com/61103916/134630572-ab30684d-1a30-4b67-b785-8b14c4c65394.jpg)
+
 
 Before starting, take a look at all the folders, we will use. Download all the images from copyright-free sources and arrange them according to different folders. 
 

@@ -11,7 +11,7 @@ Make a new file as index.html and add the boilerplate. Then give the title as th
 
 In the above code, we have created a navbar and attached an image to it. We have then added several li’s to it like about us, contact us, etc. headings. The next step is to apply CSS to the navbar, logo, and list items. After applying it, the final result will look like as follows-
   
-  ![base64_nJBdaMb](https://user-images.githubusercontent.com/61103916/134628337-670af730-3dea-46a1-af6c-8ab2daf861ec.png)
+ ![Screenshot 2021-09-24 121320](https://user-images.githubusercontent.com/61103916/134630880-82b9f38f-84c3-4c73-af37-6a2aad2bc76f.jpg)
 
 
 Now we will make a section below it and add a background image to it. Create a section with id as home as follows-

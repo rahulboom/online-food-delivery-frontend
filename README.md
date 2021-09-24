@@ -26,6 +26,9 @@ The next step is to add the client's section on the page or the sensors of our p
 
   
 Now we will add CSS to this section and the first step is to convert the section after our clients should be converted into a flexbox. After applying all the CSS to this section, the result will look as follows-
+  
+  ![Screenshot 2021-09-24 121614](https://user-images.githubusercontent.com/61103916/134631268-f5b40de2-4936-463a-ba29-0115db16603a.jpg)
+
 
 Next, we will add the contact form to our website. The form will contain a name, email, phone no., and message box. The code for it is as follows-
   

@@ -22,7 +22,7 @@ Now we will add CSS to this services container section and modify it accordingly
   
 The next step is to add the client's section on the page or the sensors of our page. Here we can name our clients and add a picture of them. The code for it is as follows-
   
-  ![base64_ooIKzM6](https://user-images.githubusercontent.com/61103916/134628513-99314ffb-233c-4298-89b3-90493af23a51.png)
+  ![Screenshot 2021-09-24 121520](https://user-images.githubusercontent.com/61103916/134631088-225b947a-da84-42f2-8a6c-4745d1a65870.jpg)
 
   
 Now we will add CSS to this section and the first step is to convert the section after our clients should be converted into a flexbox. After applying all the CSS to this section, the result will look as follows-

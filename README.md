@@ -34,6 +34,9 @@ Next, we will add the contact form to our website. The form will contain a name,
   
 The next step is to style our form with the help of CSS. We will differently style contact::before, contact-box, contact-box input, contact-box form, and contact-box label. After doing all the necessary changes, the form will look as follows-
   
+  ![Screenshot 2021-09-24 121549](https://user-images.githubusercontent.com/61103916/134631401-ad022790-963b-4e32-8dab-26d116a6efe7.jpg)
+
+  
 The next step is to make the website responsive. For making it responsive, we will make a new file as phone.css and necessary code here. Add the file in the HTML along with media queries as follows-
   
 After doing all the necessary changes to make the website responsive, the result will look as follows-
